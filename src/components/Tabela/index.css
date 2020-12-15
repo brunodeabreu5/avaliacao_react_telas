@@ -1,0 +1,13 @@
+.table{
+    
+    width: 80%;
+    
+}
+
+.textTable{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}

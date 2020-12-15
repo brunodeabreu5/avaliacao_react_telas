@@ -1,0 +1,20 @@
+.menuForm {
+  display: flex;
+  color: #fff;
+  font-size: 30px;
+  font-family: Arial, "Helvetica";
+  list-style: none;
+  
+}
+.menuItens {
+  color: #ffff;
+  padding: 15px;
+  margin-bottom: 20px;
+  transition: all 0.2s linear;
+  
+}
+
+.menuItens:hover {
+  background-color: #928e8e;
+  
+}

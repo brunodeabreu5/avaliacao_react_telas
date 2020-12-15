@@ -1,0 +1,13 @@
+header{
+    text-decoration: none;
+}
+
+.menuNav {
+    display: flex;
+    padding: 15px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(235, 223, 223);
+    
+  }
+  

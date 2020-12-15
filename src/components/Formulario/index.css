@@ -1,0 +1,24 @@
+.FormCadastro {
+  display: flex;
+  flex-direction: column;
+}
+
+.formAl {
+  display: flex;
+  justify-content: center;
+  height: 480px;
+}
+
+input {
+  font-size: 40px;
+}
+
+label {
+  font-size: 40px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.check {
+  font-size: 40px;
+}

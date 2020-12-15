@@ -1,0 +1,26 @@
+{
+    "servicos":[
+        {
+            "servico":"SaaS",
+            "descrição":"Servidor e suas licenças são distribuídas entre vários clientes",
+            "valor":"R$ 69,00 mensal",
+            "valorAnual":"R$ 390 Anual"
+            
+        },
+        {
+            "servico":"IaaS",
+            "descrição":"Infraestrutura de TI pode ser contratada como serviço",
+            "valor":"R$ 45,00 mensal",
+            "valorAnual":"R$ 299,00 Anual"
+            
+        },
+        {
+            "servico":"PaaS",
+            "descrição":"Às vezes precisamos de funcionalidades muito específicas",
+            "valor":"R$ 20,00 mensal",
+            "valorAnual":"R$ 150,00 Anual"
+            
+        }
+        
+    ]
+}
